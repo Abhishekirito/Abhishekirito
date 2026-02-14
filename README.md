@@ -8,6 +8,8 @@ From writing clean code to crafting engaging user interfaces, I strive to turn i
 
 ---
 
+![Contribution Game](https://github.com/Abhishekirito/Abhishekirito/blob/main/contribution-game.gif?raw=true)
+
 ## 🌐 Portfolio  
 🔗 **Visit my work:**  
 👉 [https://abhishekran-portfolio.vercel.app/](https://abhishekran-portfolio.vercel.app/)
