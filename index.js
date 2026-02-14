@@ -79,7 +79,7 @@ function pickNewTarget() {
 targetX = pickNewTarget();
 
 // 5. Animation Loop
-const TOTAL_FRAMES = 120; // Slightly longer to let pieces fall
+const TOTAL_FRAMES = 350; // Slightly longer to let pieces fall
 
 for (let frame = 0; frame < TOTAL_FRAMES; frame++) {
     
