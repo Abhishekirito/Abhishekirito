@@ -1,6 +1,6 @@
 ![Contribution Game](https://github.com/Abhishekirito/Abhishekirito/blob/main/contribution-game.gif?raw=true)
 
-# 👋 Hi, I'm Abhishek Ranjan  
+# 👋 Hi, I'm Abhishek
 
 🎯 **Aspiring Software Engineer | Creative Technologist | Problem Solver**
 
