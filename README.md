@@ -1,3 +1,5 @@
+![Contribution Game](https://github.com/Abhishekirito/Abhishekirito/blob/main/contribution-game.gif?raw=true)
+
 # 👋 Hi, I'm Abhishek Ranjan  
 
 🎯 **Aspiring Software Engineer | Creative Technologist | Problem Solver**
@@ -7,8 +9,6 @@ I love building meaningful digital experiences by combining **logical problem-so
 From writing clean code to crafting engaging user interfaces, I strive to turn ideas into impactful solutions.
 
 ---
-
-![Contribution Game](https://github.com/Abhishekirito/Abhishekirito/blob/main/contribution-game.gif?raw=true)
 
 ## 🌐 Portfolio  
 🔗 **Visit my work:**  
