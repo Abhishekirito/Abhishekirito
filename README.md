@@ -13,7 +13,7 @@ From writing clean code to crafting engaging user interfaces, I strive to turn i
 
 ## 🌐 Portfolio  
 🔗 **Visit my work:**  
-👉 [https://abhishekran-portfolio.vercel.app/](https://abhishekran-portfolio.vercel.app/)
+👉 [https://www.abhishekirito.xyz/](https://www.abhishekirito.xyz/)
 
 ---
 
